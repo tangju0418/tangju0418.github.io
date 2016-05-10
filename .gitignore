@@ -1,2 +1,7 @@
-/新建文本文档 (2).txt
-/新建文本文档 (3).txt
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
